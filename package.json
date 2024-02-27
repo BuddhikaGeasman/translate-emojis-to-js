@@ -11,13 +11,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^5.2.2",
-    "vite": "^5.1.4",
-    "vite-plugin-checker": "^0.6.4",
-    "vite-plugin-dts": "^3.7.3"
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-typescript": "^7.23.3",
+    "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@babel/core": "^7.23.9",
     "@babel/helper-plugin-utils": "^7.22.5"
   }
 }
